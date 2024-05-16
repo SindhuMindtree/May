@@ -2,4 +2,10 @@ public class Demo{
   public void sayHello(){
     System.debug('Hello Git');
   }
+  public void sum(){
+    integer a=10;
+    integer b=5;
+    integer res=a+b;
+    System.debug(res);
+  }
 }
